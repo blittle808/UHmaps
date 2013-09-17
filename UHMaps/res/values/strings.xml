@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UHMaps</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enter">Enter</string>
+    <string name="find_classes">Find Classes</string>
+    <string name="room">Room</string>
+    <string name="building">Building</string>
+    <string name="class_list">Class List</string>
+
+</resources>
